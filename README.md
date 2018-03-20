@@ -2,6 +2,7 @@
 This repository contains a code demo for a my final report presentation in CS373 Defense Against the Dark Arts at Oregon State university. The report topic is on trojan malware. This code base is HARMLESS it is just used to demonstrate how a simple command and control server can take control of computer using a hidden payload. 
 
 This example is based off https://github.com/alexAubin/evilBunnyTrojan
+Alex's implementation is in python 2 and instead of a command and control server he uses a keylogger on the client side to report keystrokes back to the evil server. The general idea and rabbit animations are all Alex. 
 
 ## Installation/Requirements 
 - Clone entire repository or download just the evil_bunny_server.py and evil_bunny_trojan.py source files
