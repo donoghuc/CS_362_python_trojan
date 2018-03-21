@@ -4,6 +4,8 @@ This repository contains a code demo for a my final report presentation in CS373
 This example is based off https://github.com/alexAubin/evilBunnyTrojan
 Alex's implementation is in python 2 and instead of a command and control server he uses a keylogger on the client side to report keystrokes back to the evil server. The general idea and rabbit animations are all Alex. 
 
+Final video hosted at https://media.oregonstate.edu/media/t/0_cdct0lbm
+
 ## Installation/Requirements 
 - Clone entire repository or download just the evil_bunny_server.py and evil_bunny_trojan.py source files
 - Ensure python 3 installed (I am using Python 3.6.3 :: Anaconda, Inc) from the miniconda distribution
